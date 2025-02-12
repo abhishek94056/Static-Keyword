@@ -9,7 +9,7 @@ A. To declare something as static, we just add "static" keyword in the declarati
 
 Bullet points:
 
-1. The static data is common data amongst all objects.
+1. The static data is common data amongst all objects..
 
 2. We access static data NOT by object name but by class name.
 
